@@ -27,7 +27,7 @@ High-skill server bonus = +1.0
 (for Korea/China servers according to recent LoL Worlds results)
 
 Order capability bonus = +0.5
-(for object control/lane distribution/team fight capability)
+(for object control/lane distribution/team fight order capabilities)
 
 Penalties for secondary/tertiary positions = -0.5/-1.0 respectively
 
