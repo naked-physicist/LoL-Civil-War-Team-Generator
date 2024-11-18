@@ -60,6 +60,6 @@ And then remaining positions are filled with the players who can go more lanes.
 
 Results are shown with the two metrics
 
-The Sorting priority is given to T-metric and then L-metric
+Sorting priority is given to T-metric and then L-metric
 
 Red and Blue teams are randomly assigned
