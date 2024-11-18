@@ -1,8 +1,11 @@
 # LoL-Civil-War-Team-Generator
 Team composition generator for League of Legends (LoL) with friends
+
 It works as the MMR (Match Making Rating) system used in LoL, but in a much simpler way
+
 You can divide 1-5 positions into Main/Secondary/Tertiary position categories according to your adeptness
-You should input AT LEAST one lane for the Main position.
+
+You should input AT LEAST one lane for the Main position
 
 
 --Rank points--
