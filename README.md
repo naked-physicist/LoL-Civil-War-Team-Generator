@@ -7,6 +7,8 @@ You can divide 1-5 positions into Main/Secondary/Tertiary position categories ac
 
 You should input AT LEAST one lane for the Main position
 
+Copy and paste the python code and execute it with your own IDE (current version is being developed with Jupyter notebook)
+
 
 
 --Rank points--
@@ -33,6 +35,8 @@ Order capability bonus = +0.5
 (for object control/lane distribution/team fight order capabilities)
 
 Penalties for secondary/tertiary positions = -0.5/-1.0 respectively
+
+Synergy bonus for average team score = \sqrt{average team score}
 
 
 
@@ -68,9 +72,10 @@ Red and Blue teams are randomly assigned
 
 ### To do list:
 Main version
-- [ ] Save/Open buttons for player list (for frequently involved players)
-- [ ] Previous/Next page buttons for recommended team compositions
-- [ ] Calculating L-metric without the 'order capable' bonus point
+- [x] Save/Open buttons for player list (for frequently involved players)
+- [x] Previous/Next page buttons for recommended team compositions
+- [x] Calculating L-metric without the 'order capable' bonus point
+- [ ] *.exe file for users who don't have python.
 
 Advanced version
 - [ ] Rank points derived from Gaussian distribution
